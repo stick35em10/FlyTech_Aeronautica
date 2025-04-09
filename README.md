@@ -27,9 +27,6 @@ A FlyTech Aeronáutica identificou uma queda nas vendas do modelo "FT-50 Executi
 ## Análise Exploratória
 A análise exploratória dos dados foi realizada utilizando as seguintes ferramentas:
 * Excel
-* Power BI
-* Google Sheets
-* Looker
 * Python
 * Streamlit
 
@@ -45,8 +42,8 @@ Com base na análise dos dados, foram propostas estratégias para:
 
 *Detalhe aqui as principais estratégias e soluções propostas. Seja conciso e objetivo.*
 
-## Dashboards do Power BI
-Os dashboards do Power BI apresentam visualizações dos principais indicadores relacionados às vendas, churn e perfil dos clientes. Eles fornecem insights sobre:
+## Dashboards do Streamlit
+Os dashboards do Streamlit apresentam visualizações dos principais indicadores relacionados às vendas, churn e perfil dos clientes. Eles fornecem insights sobre:
 
 * Tendências de vendas ao longo do tempo.
 * Perfil dos clientes que compraram o modelo "FT-50 Executive".
@@ -66,9 +63,10 @@ Este projeto demonstra a importância da análise de dados para entender problem
 ## Arquivos Entregues
 * Data-ChallengeWeek-FlyTech_Aeronautica_Base.xlsx
 * Apresentação no Google Slides
+* Link do Streamlit
 * [Outros arquivos, se houver]
 
 ## Contato
-[Seu Nome]
-[Seu Email]
-[Seu LinkedIn] *Adicione um link para o seu LinkedIn, se tiver*
+[José Dinis Carlos Cabicho]
+[jcabicho@gmail.com]
+[www.linkedin.com/in/jose-cabicho] 
